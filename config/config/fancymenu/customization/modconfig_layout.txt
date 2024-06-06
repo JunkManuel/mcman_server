@@ -1,0 +1,173 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = modconfig
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1711474706425
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:122eee01-274f-475a-8095-8541f11f4672-1711474677444] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = f629fb94-4524-4dcf-b412-b45bf072646d-1711473957233
+  [executable_action_instance:0681e6cc-6cd8-4941-984b-3dfa740ca656-1711474076373][action_type:mimicbutton] = options_screen:320154
+  [executable_block:f629fb94-4524-4dcf-b412-b45bf072646d-1711473957233][type:generic] = [executables:0681e6cc-6cd8-4941-984b-3dfa740ca656-1711474076373;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Distant Horizons Settings
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = a710361d-f90a-4c9d-bcaf-7e37b90adba9-1711473957233
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-left
+  x = 340
+  y = -9
+  width = 129
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = eaf41d6d-b8e8-478c-a490-440418fe9e2b-1711473957233
+  [loading_requirement_container_meta:eaf41d6d-b8e8-478c-a490-440418fe9e2b-1711473957233] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 6fe62bf6-55b0-41e1-911a-8f753ab6ac03-1711474192072
+  [executable_action_instance:1950d671-3605-430a-b847-11b8642bbe80-1711474258563][action_type:opengui] = dev.plasticstraw.inf_music.screen.InfiniteMusicOptions
+  [executable_block:6fe62bf6-55b0-41e1-911a-8f753ab6ac03-1711474192072][type:generic] = [executables:1950d671-3605-430a-b847-11b8642bbe80-1711474258563;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Infinite Music Settings
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 2c88069b-ee14-4ad0-9062-8bc21d8f5abb-1711474192072
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 10
+  y = -9
+  width = 129
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a98199fa-4b80-487a-9895-4961b38528fb-1711474192072
+  [loading_requirement_container_meta:a98199fa-4b80-487a-9895-4961b38528fb-1711474192072] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = f629fb94-4524-4dcf-b412-b45bf072646d-1711473957233
+  [executable_action_instance:d2d38be2-d421-4966-a869-bd4e172fbae3-1711474414738][action_type:opengui] = dev.lambdaurora.lambdynlights.gui.SettingsScreen
+  [executable_block:f629fb94-4524-4dcf-b412-b45bf072646d-1711473957233][type:generic] = [executables:d2d38be2-d421-4966-a869-bd4e172fbae3-1711474414738;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Dynamic Lighting Settings
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 262d9a02-7e5a-4c48-8c74-7b5bc74e83c2-1711474319499
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-left
+  x = 340
+  y = -41
+  width = 129
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = eaf41d6d-b8e8-478c-a490-440418fe9e2b-1711473957233
+  [loading_requirement_container_meta:eaf41d6d-b8e8-478c-a490-440418fe9e2b-1711473957233] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = f629fb94-4524-4dcf-b412-b45bf072646d-1711473957233
+  [executable_action_instance:9aedfeeb-ce15-4ccd-86af-7d4d59c86dc1-1711474460464][action_type:opengui] = me.cael.capes.menu.SelectorMenu
+  [executable_block:f629fb94-4524-4dcf-b412-b45bf072646d-1711473957233][type:generic] = [executables:9aedfeeb-ce15-4ccd-86af-7d4d59c86dc1-1711474460464;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Cape Settings
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 5659b1bf-beed-4098-b9c9-f0449ce5ef7b-1711474357596
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-left
+  x = 490
+  y = -41
+  width = 129
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = eaf41d6d-b8e8-478c-a490-440418fe9e2b-1711473957233
+  [loading_requirement_container_meta:eaf41d6d-b8e8-478c-a490-440418fe9e2b-1711473957233] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 6523532b-a803-4dd7-b971-d81ae5fb75d4-1711474598022
+  [executable_action_instance:b6c8966b-6c92-4b26-8b51-47710e16d880-1711474610782][action_type:closegui] = 
+  [executable_block:6523532b-a803-4dd7-b971-d81ae5fb75d4-1711474598022][type:generic] = [executables:b6c8966b-6c92-4b26-8b51-47710e16d880-1711474610782;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Return to Game
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = 5724858d-d061-41f5-8fec-01909a539214-1711474598022
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -62
+  y = -71
+  width = 124
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 7d903380-cf7d-44fe-ae26-ccc7a58ba131-1711474598022
+  [loading_requirement_container_meta:7d903380-cf7d-44fe-ae26-ccc7a58ba131-1711474598022] = [groups:][instances:]
+}
+

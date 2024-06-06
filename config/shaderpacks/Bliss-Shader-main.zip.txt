@@ -1,0 +1,17 @@
+#Tue Apr 09 11:21:25 EDT 2024
+shadowDistance=96.0
+BLEND_FACTOR=0.14
+SHARPENING=0.0
+CloudLayer0_coverage=0.3
+END_STORM_DENSTIY=0.01
+Variable_Penumbra_Shadows=false
+SSS_TYPE=1
+CloudLayer1_coverage=0.5
+TONEMAP=ACESFilm
+shadowMapResolution=768
+SHADOW_FILTER_SAMPLE_COUNT=4
+Exposure_Speed=5.0
+Snowy_Winter=true
+Seasons=true
+TOD_Fog_mult=0.75
+indirect_effect=0

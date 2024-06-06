@@ -1,0 +1,2 @@
+#Fri Apr 05 15:29:02 EDT 2024
+shadowMapResolution=2048

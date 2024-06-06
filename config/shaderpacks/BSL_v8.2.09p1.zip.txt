@@ -1,0 +1,9 @@
+#Tue Mar 26 14:19:39 EDT 2024
+shadowDistance=128.0
+MULTICOLORED_BLOCKLIGHT=true
+FXAA=false
+shadowMapResolution=1024
+TAA=true
+TAA_SELECTIVE=true
+FOG_DENSITY_DH=0.12
+DYNAMIC_HANDLIGHT=true

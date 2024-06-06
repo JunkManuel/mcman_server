@@ -1,0 +1,247 @@
+name = "Apollo-213"
+mc_version = "1.20.1"
+
+[jar]
+type = "fabric"
+loader = "0.15.6"
+installer = "latest"
+
+[variables]
+PORT = "25565"
+
+[launcher]
+eula_args = true
+nogui = true
+
+[markdown]
+files = ["README.md"]
+auto_update = false
+
+[options]
+success_line = ""
+stop_command = ""
+
+[[mods]]
+type = "modrinth"
+id = "HaaH232J"
+version = "vPTIVHrC"
+
+[[mods]]
+type = "modrinth"
+id = "nmDcB62a"
+version = "fh7tdNlS"
+
+[[mods]]
+type = "modrinth"
+id = "ZfQ3kTvR"
+version = "wgtrj8HS"
+
+[[mods]]
+type = "modrinth"
+id = "1IjD5062"
+version = "84Zs6tNo"
+
+[[mods]]
+type = "modrinth"
+id = "fALzjamp"
+version = "NHWYq9at"
+
+[[mods]]
+type = "modrinth"
+id = "gvQqBUqZ"
+version = "ZSNsJrPI"
+
+[[mods]]
+type = "modrinth"
+id = "CVT4pFB2"
+version = "2o0oW8Yv"
+
+[[mods]]
+type = "modrinth"
+id = "AANobbMI"
+version = "mhZtY2lR"
+
+[[mods]]
+type = "modrinth"
+id = "3qsfQtE9"
+version = "Rduo9X24"
+
+[[mods]]
+type = "modrinth"
+id = "9s6osm5g"
+version = "J3FLptsi"
+
+[[mods]]
+type = "modrinth"
+id = "NNAgCjsB"
+version = "frGGaFrx"
+
+[[mods]]
+type = "modrinth"
+id = "1eAoo2KR"
+version = "RXrT2ogA"
+
+[[mods]]
+type = "modrinth"
+id = "YL57xq9U"
+version = "KHQ2Hnpt"
+
+[[mods]]
+type = "modrinth"
+id = "w7ThoJFB"
+version = "66iHgfN8"
+
+[[mods]]
+type = "modrinth"
+id = "PtjYWJkn"
+version = "I7ggF6B5"
+
+[[mods]]
+type = "modrinth"
+id = "Ha28R6CL"
+version = "afsFajDC"
+
+[[mods]]
+type = "modrinth"
+id = "Q1vvjJYV"
+version = "k7zNmcFF"
+
+[[mods]]
+type = "modrinth"
+id = "yBW8D80W"
+version = "mYl4RvKg"
+
+[[mods]]
+type = "modrinth"
+id = "x1hIzbuY"
+version = "tNgyOUMr"
+
+[[mods]]
+type = "modrinth"
+id = "51shyZVL"
+version = "3m5znPWm"
+
+[[mods]]
+type = "modrinth"
+id = "89Wsn8GD"
+version = "z2zOEvPP"
+
+[[mods]]
+type = "modrinth"
+id = "D5k8BTVz"
+version = "qwUpiwSm"
+
+[[mods]]
+type = "modrinth"
+id = "EsAfCjCV"
+version = "xcauwnEB"
+
+[[mods]]
+type = "modrinth"
+id = "NRjRiSSD"
+version = "5xvCCRjJ"
+
+[[mods]]
+type = "modrinth"
+id = "sclYVqbt"
+version = "QAc0MeLZ"
+
+[[mods]]
+type = "modrinth"
+id = "rrwQMaWQ"
+version = "jqQWbvCg"
+
+[[mods]]
+type = "modrinth"
+id = "P7dR8mSH"
+version = "ba99D9Qf"
+
+[[mods]]
+type = "modrinth"
+id = "VSNURh3q"
+version = "QZ5cUNXs"
+
+[[mods]]
+type = "modrinth"
+id = "Orvt0mRa"
+version = "Aouse6P7"
+
+[[mods]]
+type = "modrinth"
+id = "LQ3K71Q1"
+version = "48hFxWw7"
+
+[[mods]]
+type = "modrinth"
+id = "BS9T99lD"
+version = "AnhOHG4D"
+
+[[mods]]
+type = "modrinth"
+id = "lLqFfGNs"
+version = "Dn4cGSpn"
+
+[[mods]]
+type = "modrinth"
+id = "uXXizFIs"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "hvFnDODi"
+version = "4SHylIO9"
+
+[[mods]]
+type = "modrinth"
+id = "QdG47OkI"
+version = "GkLb4bRl"
+
+[[mods]]
+type = "modrinth"
+id = "mOgUt4GM"
+version = "lEkperf6"
+
+[[mods]]
+type = "modrinth"
+id = "dspVZXKP"
+version = "dsyjkZFg"
+
+[[mods]]
+type = "modrinth"
+id = "qANg5Jrr"
+version = "vVFlVRt7"
+
+[[mods]]
+type = "modrinth"
+id = "J81TRJWm"
+version = "RlBGFlWp"
+
+[[mods]]
+type = "modrinth"
+id = "iG6ZHsUV"
+version = "TFvkv8XK"
+
+[[mods]]
+type = "modrinth"
+id = "9eGKb6K1"
+version = "nBaghNgP"
+
+[[mods]]
+type = "modrinth"
+id = "lWDHr9jE"
+version = "PFg0zBtc"
+
+[[mods]]
+type = "modrinth"
+id = "Bh37bMuy"
+version = "Rc9pkPug"
+
+[[mods]]
+type = "modrinth"
+id = "KuNKN7d2"
+version = "uTdy9g9c"
+
+[[mods]]
+type = "modrinth"
+id = "FimwF33K"
+version = "JFNunyDW"
