@@ -1,0 +1,6 @@
+services:
+  server:
+    build: .
+    ports:
+      - 25565:25565
+      - 25566:25566

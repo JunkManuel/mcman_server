@@ -3,7 +3,7 @@ mc_version = "1.20.1"
 
 [jar]
 type = "fabric"
-loader = "0.15.6"
+loader = "0.15.11"
 installer = "latest"
 
 [variables]
@@ -12,6 +12,7 @@ PORT = "25565"
 [launcher]
 eula_args = true
 nogui = true
+memory = "12G"
 
 [markdown]
 files = ["README.md"]
