@@ -41,4 +41,7 @@
 | [Waystones](https://modrinth.com/mod/waystones)                                     | Teleport back to activated waystones. For Survival, Adventure or Servers.                                                                | 14.1.3+fabric-1.20  |
 | [Balm](https://modrinth.com/mod/balm)                                               | Abstraction Layer (but not really)™ for Blay's multiplatform mods                                                                        | 7.3.4+fabric-1.20.1 |
 | [Waystones](https://modrinth.com/mod/waystones)                                     | Teleport back to activated waystones. For Survival, Adventure or Servers.                                                                | 14.1.3+fabric-1.20  |
+| [Just Enough Items](https://modrinth.com/mod/jei)                                   | JEI - View Items and Recipes                                                                                                             | 15.3.0.4            |
+| [Jade 🔍](https://modrinth.com/mod/jade)                                             | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)                                                  | 11.9.2+fabric       |
+| [Jade Addons (Fabric)](https://modrinth.com/mod/jade-addons-fabric)                 | Jade 🔍's additional mod supports for Fabric                                                                                              | 5.2.5               |
 <!--end:mcman-addons-->
