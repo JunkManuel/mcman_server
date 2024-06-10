@@ -32,15 +32,19 @@ type = "modrinth"
 id = "nmDcB62a"
 version = "fh7tdNlS"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "ZfQ3kTvR"
 version = "wgtrj8HS"
+optional = false
+desc = "launch quicker tha game"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "1IjD5062"
 version = "84Zs6tNo"
+optional = false
+desc = "shit tha works with optifine now works without it"
 
 [[mods]]
 type = "modrinth"
@@ -57,15 +61,19 @@ type = "modrinth"
 id = "CVT4pFB2"
 version = "2o0oW8Yv"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "AANobbMI"
 version = "mhZtY2lR"
+optional = false
+desc = "Sodium (performance mod)"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "3qsfQtE9"
 version = "Rduo9X24"
+optional = true
+desc = "high quality screenshots cause why not"
 
 [[mods]]
 type = "modrinth"
@@ -82,55 +90,73 @@ type = "modrinth"
 id = "1eAoo2KR"
 version = "RXrT2ogA"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "YL57xq9U"
 version = "KHQ2Hnpt"
+optional = false
+desc = "iris, tha core of the shaders"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "w7ThoJFB"
 version = "66iHgfN8"
+optional = false
+desc = "zoom how xu want"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "PtjYWJkn"
 version = "I7ggF6B5"
+optional = false
+desc = "sodium extra options nd features"
 
 [[mods]]
 type = "modrinth"
 id = "Ha28R6CL"
 version = "afsFajDC"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "Q1vvjJYV"
 version = "k7zNmcFF"
+optional = true
+desc = "shaderpack"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "yBW8D80W"
 version = "mYl4RvKg"
+optional = false
+desc = "dinamic lighting, everybody needs it"
 
 [[mods]]
 type = "modrinth"
 id = "x1hIzbuY"
 version = "tNgyOUMr"
+optional = true
+desc = "has fast in tha name so here it is"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "51shyZVL"
 version = "3m5znPWm"
+optional = false
+desc = "culls shit for performace"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "89Wsn8GD"
 version = "z2zOEvPP"
+optional = false
+desc = "allows use of custom capes"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "D5k8BTVz"
 version = "qwUpiwSm"
+optional = true
+desc = "shaderpack"
 
 [[mods]]
 type = "modrinth"
@@ -142,15 +168,19 @@ type = "modrinth"
 id = "NRjRiSSD"
 version = "5xvCCRjJ"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "sclYVqbt"
 version = "QAc0MeLZ"
+optional = true
+desc = "shaderpack"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "rrwQMaWQ"
 version = "jqQWbvCg"
+optional = true
+desc = "Camera Utils"
 
 [[mods]]
 type = "modrinth"
@@ -162,25 +192,33 @@ type = "modrinth"
 id = "VSNURh3q"
 version = "QZ5cUNXs"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "Orvt0mRa"
 version = "Aouse6P7"
+optional = false
+desc = "Indium, look it up, imma not write a exaustive desc here"
 
 [[mods]]
 type = "modrinth"
 id = "LQ3K71Q1"
 version = "48hFxWw7"
+optional = false
+desc = "o shit minecra not running on tha background¿¿¿"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "BS9T99lD"
 version = "AnhOHG4D"
+optional = true
+desc = "shaderpack"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "lLqFfGNs"
 version = "Dn4cGSpn"
+optional = true
+desc = "shaderpack"
 
 [[mods]]
 type = "modrinth"
@@ -192,20 +230,26 @@ type = "modrinth"
 id = "hvFnDODi"
 version = "4SHylIO9"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "QdG47OkI"
 version = "GkLb4bRl"
+optional = false
+desc = "fixes models"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "mOgUt4GM"
 version = "lEkperf6"
+optional = false
+desc = "Adds a mod menu to list installed mods"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "dspVZXKP"
 version = "dsyjkZFg"
+optional = true
+desc = "shaderpack"
 
 [[mods]]
 type = "modrinth"
@@ -217,10 +261,12 @@ type = "modrinth"
 id = "J81TRJWm"
 version = "RlBGFlWp"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "iG6ZHsUV"
 version = "TFvkv8XK"
+optional = false
+desc = "more fps, less leaves, better experience"
 
 [[mods]]
 type = "modrinth"
@@ -232,10 +278,12 @@ type = "modrinth"
 id = "lWDHr9jE"
 version = "PFg0zBtc"
 
-[[mods]]
+[[clientsidemods]]
 type = "modrinth"
 id = "Bh37bMuy"
 version = "Rc9pkPug"
+optional = false
+desc = "better graphics option's menu"
 
 [[mods]]
 type = "modrinth"
