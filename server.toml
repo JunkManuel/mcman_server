@@ -32,20 +32,6 @@ type = "modrinth"
 id = "nmDcB62a"
 version = "fh7tdNlS"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "ZfQ3kTvR"
-version = "wgtrj8HS"
-optional = false
-desc = "launch quicker tha game"
-
-[[clientsidemods]]
-type = "modrinth"
-id = "1IjD5062"
-version = "84Zs6tNo"
-optional = false
-desc = "shit tha works with optifine now works without it"
-
 [[mods]]
 type = "modrinth"
 id = "fALzjamp"
@@ -61,20 +47,6 @@ type = "modrinth"
 id = "CVT4pFB2"
 version = "2o0oW8Yv"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "AANobbMI"
-version = "mhZtY2lR"
-optional = false
-desc = "Sodium (performance mod)"
-
-[[clientsidemods]]
-type = "modrinth"
-id = "3qsfQtE9"
-version = "Rduo9X24"
-optional = true
-desc = "high quality screenshots cause why not"
-
 [[mods]]
 type = "modrinth"
 id = "9s6osm5g"
@@ -89,6 +61,114 @@ version = "frGGaFrx"
 type = "modrinth"
 id = "1eAoo2KR"
 version = "RXrT2ogA"
+
+[[mods]]
+type = "modrinth"
+id = "Ha28R6CL"
+version = "afsFajDC"
+
+[[mods]]
+type = "modrinth"
+id = "x1hIzbuY"
+version = "tNgyOUMr"
+
+[[mods]]
+type = "modrinth"
+id = "EsAfCjCV"
+version = "xcauwnEB"
+
+[[mods]]
+type = "modrinth"
+id = "NRjRiSSD"
+version = "5xvCCRjJ"
+
+[[mods]]
+type = "modrinth"
+id = "P7dR8mSH"
+version = "ba99D9Qf"
+
+[[mods]]
+type = "modrinth"
+id = "VSNURh3q"
+version = "QZ5cUNXs"
+
+[[mods]]
+type = "modrinth"
+id = "LQ3K71Q1"
+version = "48hFxWw7"
+
+[[mods]]
+type = "modrinth"
+id = "uXXizFIs"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "hvFnDODi"
+version = "4SHylIO9"
+
+[[mods]]
+type = "modrinth"
+id = "qANg5Jrr"
+version = "vVFlVRt7"
+
+[[mods]]
+type = "modrinth"
+id = "J81TRJWm"
+version = "RlBGFlWp"
+
+[[mods]]
+type = "modrinth"
+id = "9eGKb6K1"
+version = "nBaghNgP"
+
+[[mods]]
+type = "modrinth"
+id = "lWDHr9jE"
+version = "PFg0zBtc"
+
+[[mods]]
+type = "modrinth"
+id = "KuNKN7d2"
+version = "uTdy9g9c"
+
+[[mods]]
+type = "modrinth"
+id = "FimwF33K"
+version = "JFNunyDW"
+
+[[mods]]
+type = "modrinth"
+id = "waystones"
+version = "14.1.3+fabric-1.20"
+
+[[clientsidemods]]
+type = "modrinth"
+id = "ZfQ3kTvR"
+version = "wgtrj8HS"
+optional = false
+desc = "launch quicker tha game"
+
+[[clientsidemods]]
+type = "modrinth"
+id = "1IjD5062"
+version = "84Zs6tNo"
+optional = false
+desc = "shit tha works with optifine now works without it"
+
+[[clientsidemods]]
+type = "modrinth"
+id = "AANobbMI"
+version = "mhZtY2lR"
+optional = false
+desc = "Sodium (performance mod)"
+
+[[clientsidemods]]
+type = "modrinth"
+id = "3qsfQtE9"
+version = "Rduo9X24"
+optional = true
+desc = "high quality screenshots cause why not"
 
 [[clientsidemods]]
 type = "modrinth"
@@ -111,31 +191,12 @@ version = "I7ggF6B5"
 optional = false
 desc = "sodium extra options nd features"
 
-[[mods]]
-type = "modrinth"
-id = "Ha28R6CL"
-version = "afsFajDC"
-
-# [[clientsidemods]]
-# type = "modrinth"
-# id = "Q1vvjJYV"
-# version = "k7zNmcFF"
-# optional = true
-# desc = "shaderpack"
-
 [[clientsidemods]]
 type = "modrinth"
 id = "yBW8D80W"
 version = "mYl4RvKg"
 optional = false
 desc = "dinamic lighting, everybody needs it"
-
-[[mods]]
-type = "modrinth"
-id = "x1hIzbuY"
-version = "tNgyOUMr"
-optional = true
-desc = "has fast in tha name so here it is"
 
 [[clientsidemods]]
 type = "modrinth"
@@ -151,30 +212,6 @@ version = "z2zOEvPP"
 optional = false
 desc = "allows use of custom capes"
 
-# [[clientsidemods]]
-# type = "modrinth"
-# id = "D5k8BTVz"
-# version = "qwUpiwSm"
-# optional = true
-# desc = "shaderpack"
-
-[[mods]]
-type = "modrinth"
-id = "EsAfCjCV"
-version = "xcauwnEB"
-
-[[mods]]
-type = "modrinth"
-id = "NRjRiSSD"
-version = "5xvCCRjJ"
-
-# [[clientsidemods]]
-# type = "modrinth"
-# id = "sclYVqbt"
-# version = "QAc0MeLZ"
-# optional = true
-# desc = "shaderpack"
-
 [[clientsidemods]]
 type = "modrinth"
 id = "rrwQMaWQ"
@@ -182,53 +219,12 @@ version = "jqQWbvCg"
 optional = true
 desc = "Camera Utils"
 
-[[mods]]
-type = "modrinth"
-id = "P7dR8mSH"
-version = "ba99D9Qf"
-
-[[mods]]
-type = "modrinth"
-id = "VSNURh3q"
-version = "QZ5cUNXs"
-
 [[clientsidemods]]
 type = "modrinth"
 id = "Orvt0mRa"
 version = "Aouse6P7"
 optional = false
 desc = "Indium, look it up, imma not write a exaustive desc here"
-
-[[mods]]
-type = "modrinth"
-id = "LQ3K71Q1"
-version = "48hFxWw7"
-optional = false
-desc = "o shit minecra not running on tha background¿¿¿"
-
-# [[clientsidemods]]
-# type = "modrinth"
-# id = "BS9T99lD"
-# version = "AnhOHG4D"
-# optional = true
-# desc = "shaderpack"
-#
-# [[clientsidemods]]
-# type = "modrinth"
-# id = "lLqFfGNs"
-# version = "Dn4cGSpn"
-# optional = true
-# desc = "shaderpack"
-
-[[mods]]
-type = "modrinth"
-id = "uXXizFIs"
-version = "unerR5MN"
-
-[[mods]]
-type = "modrinth"
-id = "hvFnDODi"
-version = "4SHylIO9"
 
 [[clientsidemods]]
 type = "modrinth"
@@ -244,23 +240,6 @@ version = "lEkperf6"
 optional = false
 desc = "Adds a mod menu to list installed mods"
 
-# [[clientsidemods]]
-# type = "modrinth"
-# id = "dspVZXKP"
-# version = "dsyjkZFg"
-# optional = true
-# desc = "shaderpack"
-
-[[mods]]
-type = "modrinth"
-id = "qANg5Jrr"
-version = "vVFlVRt7"
-
-[[mods]]
-type = "modrinth"
-id = "J81TRJWm"
-version = "RlBGFlWp"
-
 [[clientsidemods]]
 type = "modrinth"
 id = "iG6ZHsUV"
@@ -268,29 +247,9 @@ version = "TFvkv8XK"
 optional = false
 desc = "more fps, less leaves, better experience"
 
-[[mods]]
-type = "modrinth"
-id = "9eGKb6K1"
-version = "nBaghNgP"
-
-[[mods]]
-type = "modrinth"
-id = "lWDHr9jE"
-version = "PFg0zBtc"
-
 [[clientsidemods]]
 type = "modrinth"
 id = "Bh37bMuy"
 version = "Rc9pkPug"
 optional = false
 desc = "better graphics option's menu"
-
-[[mods]]
-type = "modrinth"
-id = "KuNKN7d2"
-version = "uTdy9g9c"
-
-[[mods]]
-type = "modrinth"
-id = "FimwF33K"
-version = "JFNunyDW"
