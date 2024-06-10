@@ -116,12 +116,12 @@ type = "modrinth"
 id = "Ha28R6CL"
 version = "afsFajDC"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "Q1vvjJYV"
-version = "k7zNmcFF"
-optional = true
-desc = "shaderpack"
+# [[clientsidemods]]
+# type = "modrinth"
+# id = "Q1vvjJYV"
+# version = "k7zNmcFF"
+# optional = true
+# desc = "shaderpack"
 
 [[clientsidemods]]
 type = "modrinth"
@@ -151,12 +151,12 @@ version = "z2zOEvPP"
 optional = false
 desc = "allows use of custom capes"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "D5k8BTVz"
-version = "qwUpiwSm"
-optional = true
-desc = "shaderpack"
+# [[clientsidemods]]
+# type = "modrinth"
+# id = "D5k8BTVz"
+# version = "qwUpiwSm"
+# optional = true
+# desc = "shaderpack"
 
 [[mods]]
 type = "modrinth"
@@ -168,12 +168,12 @@ type = "modrinth"
 id = "NRjRiSSD"
 version = "5xvCCRjJ"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "sclYVqbt"
-version = "QAc0MeLZ"
-optional = true
-desc = "shaderpack"
+# [[clientsidemods]]
+# type = "modrinth"
+# id = "sclYVqbt"
+# version = "QAc0MeLZ"
+# optional = true
+# desc = "shaderpack"
 
 [[clientsidemods]]
 type = "modrinth"
@@ -206,19 +206,19 @@ version = "48hFxWw7"
 optional = false
 desc = "o shit minecra not running on tha background¿¿¿"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "BS9T99lD"
-version = "AnhOHG4D"
-optional = true
-desc = "shaderpack"
-
-[[clientsidemods]]
-type = "modrinth"
-id = "lLqFfGNs"
-version = "Dn4cGSpn"
-optional = true
-desc = "shaderpack"
+# [[clientsidemods]]
+# type = "modrinth"
+# id = "BS9T99lD"
+# version = "AnhOHG4D"
+# optional = true
+# desc = "shaderpack"
+#
+# [[clientsidemods]]
+# type = "modrinth"
+# id = "lLqFfGNs"
+# version = "Dn4cGSpn"
+# optional = true
+# desc = "shaderpack"
 
 [[mods]]
 type = "modrinth"
@@ -244,12 +244,12 @@ version = "lEkperf6"
 optional = false
 desc = "Adds a mod menu to list installed mods"
 
-[[clientsidemods]]
-type = "modrinth"
-id = "dspVZXKP"
-version = "dsyjkZFg"
-optional = true
-desc = "shaderpack"
+# [[clientsidemods]]
+# type = "modrinth"
+# id = "dspVZXKP"
+# version = "dsyjkZFg"
+# optional = true
+# desc = "shaderpack"
 
 [[mods]]
 type = "modrinth"
